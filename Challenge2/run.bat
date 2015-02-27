@@ -1,1 +1,2 @@
-py main.py input.txt
+python main.py input.txt
+PAUSE
